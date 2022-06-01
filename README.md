@@ -1,3 +1,5 @@
+[<img alt="alt_text" width="40px" src="images/intro.jpg" />]
+
 # M5Stack NES
 
 A NES emulator with support for M5Stack Faces and SD card.
