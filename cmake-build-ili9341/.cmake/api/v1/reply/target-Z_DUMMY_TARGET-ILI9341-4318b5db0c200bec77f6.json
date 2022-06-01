@@ -1,0 +1,7245 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Z_DUMMY_TARGET"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_definitions",
+			"include",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"CMakeListsPrivate.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 56,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 58,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 25,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 57,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 44,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 50,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 51,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 52,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 53,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 33,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 40,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 35,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 36,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 37,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 38,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 39,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 34,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 42,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 43,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 48,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 54,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 46,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 45,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 47,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 24,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 32,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 26,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 31,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 27,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 28,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 49,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 60,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 63,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 65,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 66,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 67,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 68,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 69,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 70,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 71,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 72,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 73,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 74,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 75,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 76,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 77,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 78,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 79,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 80,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 81,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 82,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 83,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 84,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 85,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 86,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 87,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 88,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 89,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 90,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 91,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 92,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 93,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 94,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 95,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 96,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 97,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 98,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 99,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 100,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 101,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 102,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 103,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 104,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 105,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 106,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 107,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 108,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 109,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 110,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 111,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 112,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 113,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 114,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 115,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 116,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 117,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 118,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 119,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 120,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 121,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 122,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 123,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 124,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 125,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 126,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 127,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 128,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 129,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 130,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 131,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 132,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 133,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 134,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 135,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 136,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 137,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 138,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 139,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 140,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 141,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 142,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 143,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 144,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 145,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 146,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 147,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 148,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 149,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 150,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 151,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 152,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 153,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 154,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 155,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 156,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 157,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 158,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 159,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 160,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 161,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 162,
+				"parent" : 3
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-fno-rtti -fno-exceptions -std=gnu++11 -Os -g3 -Wall -nostdlib -Wpointer-arith -Wno-error=unused-but-set-variable -Wno-error=unused-variable -mlongcalls -ffunction-sections -fdata-sections -fstrict-volatile-bitfields -Wno-error=deprecated-declarations -Wno-error=unused-function -Wno-unused-parameter -Wno-sign-compare -fstack-protector -fexceptions -Werror=reorder"
+				},
+				{
+					"fragment" : "-std=gnu++11"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ARDUINO=10805"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "ARDUINO_ARCH_ESP32"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "ARDUINO_BOARD=\"M5Stack Core ESP32\""
+				},
+				{
+					"backtrace" : 7,
+					"define" : "ARDUINO_M5Stack_Core_ESP32"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "ARDUINO_VARIANT=\"m5stack_core_esp32\""
+				},
+				{
+					"backtrace" : 9,
+					"define" : "BOARD_HAS_PSRAM"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "ESP32"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "ESP_PLATFORM"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "F_CPU=240000000L"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "HAVE_CONFIG_H"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "HW_AUDIO_SAMPLERATE=22050"
+				},
+				{
+					"backtrace" : 15,
+					"define" : "HW_CONTROLLER_GPIO_A=13"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "HW_CONTROLLER_GPIO_B=14"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "HW_CONTROLLER_GPIO_DOWN=6"
+				},
+				{
+					"backtrace" : 18,
+					"define" : "HW_CONTROLLER_GPIO_LEFT=7"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "HW_CONTROLLER_GPIO_RIGHT=5"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "HW_CONTROLLER_GPIO_SELECT=0"
+				},
+				{
+					"backtrace" : 21,
+					"define" : "HW_CONTROLLER_GPIO_START=3"
+				},
+				{
+					"backtrace" : 22,
+					"define" : "HW_CONTROLLER_GPIO_UP=4"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "HW_CONTROLLER_GPIO_X=0"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "HW_CONTROLLER_GPIO_Y=0"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "ILI9341_DRIVER=1"
+				},
+				{
+					"backtrace" : 26,
+					"define" : "MBEDTLS_CONFIG_FILE=\"mbedtls/esp_config.h\""
+				},
+				{
+					"backtrace" : 27,
+					"define" : "MONITOR_HOR_RES=320"
+				},
+				{
+					"backtrace" : 28,
+					"define" : "MONITOR_ROTATION=0"
+				},
+				{
+					"backtrace" : 29,
+					"define" : "MONITOR_VER_RES=240"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "PLATFORMIO=60001"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "TFT_BL=32"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "TFT_BRIGHTNESS=255"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "TFT_CS=14"
+				},
+				{
+					"backtrace" : 34,
+					"define" : "TFT_DC=27"
+				},
+				{
+					"backtrace" : 35,
+					"define" : "TFT_MISO=19"
+				},
+				{
+					"backtrace" : 36,
+					"define" : "TFT_MOSI=23"
+				},
+				{
+					"backtrace" : 37,
+					"define" : "TFT_RST=33"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "TFT_SCLK=18"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 39,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/include"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/src"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/ext_libs/arduino-nofrendo/src"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/ext_libs/GFX Library for Arduino/src"
+				},
+				{
+					"backtrace" : 43,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/.pio/libdeps/ILI9341/M5Stack_TreeView/src"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/.pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/src"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/.pio/libdeps/ILI9341/M5Stack/src"
+				},
+				{
+					"backtrace" : 46,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/SPIFFS/src"
+				},
+				{
+					"backtrace" : 47,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/SPI/src"
+				},
+				{
+					"backtrace" : 48,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/FS/src"
+				},
+				{
+					"backtrace" : 49,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/config"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/app_trace"
+				},
+				{
+					"backtrace" : 51,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/app_update"
+				},
+				{
+					"backtrace" : 52,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/asio"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/bootloader_support"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/bt"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/coap"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/console"
+				},
+				{
+					"backtrace" : 57,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/driver"
+				},
+				{
+					"backtrace" : 58,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/efuse"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp-tls"
+				},
+				{
+					"backtrace" : 60,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp32"
+				},
+				{
+					"backtrace" : 61,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_adc_cal"
+				},
+				{
+					"backtrace" : 62,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_event"
+				},
+				{
+					"backtrace" : 63,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_http_client"
+				},
+				{
+					"backtrace" : 64,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_http_server"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_https_ota"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_https_server"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_ringbuf"
+				},
+				{
+					"backtrace" : 68,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_websocket_client"
+				},
+				{
+					"backtrace" : 69,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/espcoredump"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/ethernet"
+				},
+				{
+					"backtrace" : 71,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/expat"
+				},
+				{
+					"backtrace" : 72,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/fatfs"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/freemodbus"
+				},
+				{
+					"backtrace" : 74,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/freertos"
+				},
+				{
+					"backtrace" : 75,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/heap"
+				},
+				{
+					"backtrace" : 76,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/idf_test"
+				},
+				{
+					"backtrace" : 77,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/jsmn"
+				},
+				{
+					"backtrace" : 78,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/json"
+				},
+				{
+					"backtrace" : 79,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/libsodium"
+				},
+				{
+					"backtrace" : 80,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/log"
+				},
+				{
+					"backtrace" : 81,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/lwip"
+				},
+				{
+					"backtrace" : 82,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/mbedtls"
+				},
+				{
+					"backtrace" : 83,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/mdns"
+				},
+				{
+					"backtrace" : 84,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/micro-ecc"
+				},
+				{
+					"backtrace" : 85,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/mqtt"
+				},
+				{
+					"backtrace" : 86,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/newlib"
+				},
+				{
+					"backtrace" : 87,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/nghttp"
+				},
+				{
+					"backtrace" : 88,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/nvs_flash"
+				},
+				{
+					"backtrace" : 89,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/openssl"
+				},
+				{
+					"backtrace" : 90,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/protobuf-c"
+				},
+				{
+					"backtrace" : 91,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/protocomm"
+				},
+				{
+					"backtrace" : 92,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/pthread"
+				},
+				{
+					"backtrace" : 93,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/sdmmc"
+				},
+				{
+					"backtrace" : 94,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/smartconfig_ack"
+				},
+				{
+					"backtrace" : 95,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/soc"
+				},
+				{
+					"backtrace" : 96,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/spi_flash"
+				},
+				{
+					"backtrace" : 97,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/spiffs"
+				},
+				{
+					"backtrace" : 98,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/tcp_transport"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/tcpip_adapter"
+				},
+				{
+					"backtrace" : 100,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/ulp"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/unity"
+				},
+				{
+					"backtrace" : 102,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/vfs"
+				},
+				{
+					"backtrace" : 103,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/wear_levelling"
+				},
+				{
+					"backtrace" : 104,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/wifi_provisioning"
+				},
+				{
+					"backtrace" : 105,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/wpa_supplicant"
+				},
+				{
+					"backtrace" : 106,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/xtensa-debug-module"
+				},
+				{
+					"backtrace" : 107,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp-face"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp32-camera"
+				},
+				{
+					"backtrace" : 109,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/fb_gfx"
+				},
+				{
+					"backtrace" : 110,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/cores/esp32"
+				},
+				{
+					"backtrace" : 111,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/variants/m5stack_core_esp32"
+				},
+				{
+					"backtrace" : 112,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/HTTPClient/src"
+				},
+				{
+					"backtrace" : 113,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/SD/src"
+				},
+				{
+					"backtrace" : 114,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/WiFi/src"
+				},
+				{
+					"backtrace" : 115,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/WiFiClientSecure/src"
+				},
+				{
+					"backtrace" : 116,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/Wire/src"
+				},
+				{
+					"backtrace" : 117,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/ArduinoOTA/src"
+				},
+				{
+					"backtrace" : 118,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/AsyncUDP/src"
+				},
+				{
+					"backtrace" : 119,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/AzureIoT/src"
+				},
+				{
+					"backtrace" : 120,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/BLE/src"
+				},
+				{
+					"backtrace" : 121,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/BluetoothSerial/src"
+				},
+				{
+					"backtrace" : 122,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/DNSServer/src"
+				},
+				{
+					"backtrace" : 123,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/EEPROM/src"
+				},
+				{
+					"backtrace" : 124,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/ESP32/src"
+				},
+				{
+					"backtrace" : 125,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/ESPmDNS/src"
+				},
+				{
+					"backtrace" : 126,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/FFat/src"
+				},
+				{
+					"backtrace" : 127,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/HTTPUpdate/src"
+				},
+				{
+					"backtrace" : 128,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/HTTPUpdateServer/src"
+				},
+				{
+					"backtrace" : 129,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/NetBIOS/src"
+				},
+				{
+					"backtrace" : 130,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/Preferences/src"
+				},
+				{
+					"backtrace" : 131,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/SD_MMC/src"
+				},
+				{
+					"backtrace" : 132,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/SimpleBLE/src"
+				},
+				{
+					"backtrace" : 133,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/Ticker/src"
+				},
+				{
+					"backtrace" : 134,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/Update/src"
+				},
+				{
+					"backtrace" : 135,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/WebServer/src"
+				},
+				{
+					"backtrace" : 136,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/WiFiProv/src"
+				},
+				{
+					"backtrace" : 137,
+					"path" : "/Users/jim/.platformio/packages/toolchain-xtensa32@2.50200.97/xtensa-esp32-elf/include/c++/5.2.0"
+				},
+				{
+					"backtrace" : 138,
+					"path" : "/Users/jim/.platformio/packages/toolchain-xtensa32@2.50200.97/xtensa-esp32-elf/include/c++/5.2.0/xtensa-esp32-elf"
+				},
+				{
+					"backtrace" : 139,
+					"path" : "/Users/jim/.platformio/packages/toolchain-xtensa32@2.50200.97/lib/gcc/xtensa-esp32-elf/5.2.0/include"
+				},
+				{
+					"backtrace" : 140,
+					"path" : "/Users/jim/.platformio/packages/toolchain-xtensa32@2.50200.97/lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed"
+				},
+				{
+					"backtrace" : 141,
+					"path" : "/Users/jim/.platformio/packages/toolchain-xtensa32@2.50200.97/xtensa-esp32-elf/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				4,
+				15,
+				30,
+				95,
+				96,
+				119,
+				123,
+				126,
+				128,
+				130,
+				146,
+				149,
+				151,
+				154,
+				156,
+				159,
+				161,
+				163,
+				165,
+				184,
+				187,
+				190,
+				193,
+				196,
+				199,
+				203,
+				206,
+				209,
+				211,
+				213,
+				216,
+				218,
+				220,
+				228,
+				231,
+				249,
+				252,
+				257,
+				262,
+				288,
+				319,
+				325,
+				334,
+				338,
+				345,
+				347,
+				350,
+				354,
+				356,
+				364,
+				368,
+				371,
+				373,
+				375,
+				378,
+				380,
+				457,
+				459,
+				461,
+				463,
+				465,
+				468,
+				470,
+				477,
+				480,
+				482,
+				484,
+				486,
+				488,
+				490,
+				492,
+				494,
+				500,
+				510,
+				512,
+				514,
+				516,
+				518,
+				529,
+				532,
+				534,
+				536,
+				538,
+				540,
+				542,
+				544,
+				549,
+				551,
+				553,
+				555,
+				557,
+				559,
+				561,
+				563,
+				565,
+				567,
+				569,
+				571,
+				573,
+				575,
+				577,
+				579,
+				581,
+				583,
+				585,
+				587,
+				589,
+				591,
+				593,
+				595,
+				597,
+				599,
+				601,
+				603,
+				605,
+				607,
+				609,
+				611,
+				613,
+				615,
+				617,
+				619,
+				621,
+				623,
+				625,
+				627,
+				629,
+				631,
+				633,
+				635,
+				637,
+				639,
+				641,
+				643,
+				645,
+				647,
+				649,
+				651,
+				653,
+				655,
+				657,
+				659,
+				661,
+				663,
+				665,
+				667,
+				669,
+				671,
+				673
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-std=gnu99 -Wno-old-style-declaration -Os -g3 -Wall -nostdlib -Wpointer-arith -Wno-error=unused-but-set-variable -Wno-error=unused-variable -mlongcalls -ffunction-sections -fdata-sections -fstrict-volatile-bitfields -Wno-error=deprecated-declarations -Wno-error=unused-function -Wno-unused-parameter -Wno-sign-compare -fstack-protector -fexceptions -Werror=reorder"
+				},
+				{
+					"fragment" : "-std=gnu99"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ARDUINO=10805"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "ARDUINO_ARCH_ESP32"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "ARDUINO_BOARD=\"M5Stack Core ESP32\""
+				},
+				{
+					"backtrace" : 7,
+					"define" : "ARDUINO_M5Stack_Core_ESP32"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "ARDUINO_VARIANT=\"m5stack_core_esp32\""
+				},
+				{
+					"backtrace" : 9,
+					"define" : "BOARD_HAS_PSRAM"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "ESP32"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "ESP_PLATFORM"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "F_CPU=240000000L"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "HAVE_CONFIG_H"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "HW_AUDIO_SAMPLERATE=22050"
+				},
+				{
+					"backtrace" : 15,
+					"define" : "HW_CONTROLLER_GPIO_A=13"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "HW_CONTROLLER_GPIO_B=14"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "HW_CONTROLLER_GPIO_DOWN=6"
+				},
+				{
+					"backtrace" : 18,
+					"define" : "HW_CONTROLLER_GPIO_LEFT=7"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "HW_CONTROLLER_GPIO_RIGHT=5"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "HW_CONTROLLER_GPIO_SELECT=0"
+				},
+				{
+					"backtrace" : 21,
+					"define" : "HW_CONTROLLER_GPIO_START=3"
+				},
+				{
+					"backtrace" : 22,
+					"define" : "HW_CONTROLLER_GPIO_UP=4"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "HW_CONTROLLER_GPIO_X=0"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "HW_CONTROLLER_GPIO_Y=0"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "ILI9341_DRIVER=1"
+				},
+				{
+					"backtrace" : 26,
+					"define" : "MBEDTLS_CONFIG_FILE=\"mbedtls/esp_config.h\""
+				},
+				{
+					"backtrace" : 27,
+					"define" : "MONITOR_HOR_RES=320"
+				},
+				{
+					"backtrace" : 28,
+					"define" : "MONITOR_ROTATION=0"
+				},
+				{
+					"backtrace" : 29,
+					"define" : "MONITOR_VER_RES=240"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "PLATFORMIO=60001"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "TFT_BL=32"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "TFT_BRIGHTNESS=255"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "TFT_CS=14"
+				},
+				{
+					"backtrace" : 34,
+					"define" : "TFT_DC=27"
+				},
+				{
+					"backtrace" : 35,
+					"define" : "TFT_MISO=19"
+				},
+				{
+					"backtrace" : 36,
+					"define" : "TFT_MOSI=23"
+				},
+				{
+					"backtrace" : 37,
+					"define" : "TFT_RST=33"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "TFT_SCLK=18"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 39,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/include"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/src"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/ext_libs/arduino-nofrendo/src"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/ext_libs/GFX Library for Arduino/src"
+				},
+				{
+					"backtrace" : 43,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/.pio/libdeps/ILI9341/M5Stack_TreeView/src"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/.pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/src"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/.pio/libdeps/ILI9341/M5Stack/src"
+				},
+				{
+					"backtrace" : 46,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/SPIFFS/src"
+				},
+				{
+					"backtrace" : 47,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/SPI/src"
+				},
+				{
+					"backtrace" : 48,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/FS/src"
+				},
+				{
+					"backtrace" : 49,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/config"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/app_trace"
+				},
+				{
+					"backtrace" : 51,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/app_update"
+				},
+				{
+					"backtrace" : 52,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/asio"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/bootloader_support"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/bt"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/coap"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/console"
+				},
+				{
+					"backtrace" : 57,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/driver"
+				},
+				{
+					"backtrace" : 58,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/efuse"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp-tls"
+				},
+				{
+					"backtrace" : 60,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp32"
+				},
+				{
+					"backtrace" : 61,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_adc_cal"
+				},
+				{
+					"backtrace" : 62,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_event"
+				},
+				{
+					"backtrace" : 63,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_http_client"
+				},
+				{
+					"backtrace" : 64,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_http_server"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_https_ota"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_https_server"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_ringbuf"
+				},
+				{
+					"backtrace" : 68,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp_websocket_client"
+				},
+				{
+					"backtrace" : 69,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/espcoredump"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/ethernet"
+				},
+				{
+					"backtrace" : 71,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/expat"
+				},
+				{
+					"backtrace" : 72,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/fatfs"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/freemodbus"
+				},
+				{
+					"backtrace" : 74,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/freertos"
+				},
+				{
+					"backtrace" : 75,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/heap"
+				},
+				{
+					"backtrace" : 76,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/idf_test"
+				},
+				{
+					"backtrace" : 77,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/jsmn"
+				},
+				{
+					"backtrace" : 78,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/json"
+				},
+				{
+					"backtrace" : 79,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/libsodium"
+				},
+				{
+					"backtrace" : 80,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/log"
+				},
+				{
+					"backtrace" : 81,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/lwip"
+				},
+				{
+					"backtrace" : 82,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/mbedtls"
+				},
+				{
+					"backtrace" : 83,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/mdns"
+				},
+				{
+					"backtrace" : 84,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/micro-ecc"
+				},
+				{
+					"backtrace" : 85,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/mqtt"
+				},
+				{
+					"backtrace" : 86,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/newlib"
+				},
+				{
+					"backtrace" : 87,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/nghttp"
+				},
+				{
+					"backtrace" : 88,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/nvs_flash"
+				},
+				{
+					"backtrace" : 89,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/openssl"
+				},
+				{
+					"backtrace" : 90,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/protobuf-c"
+				},
+				{
+					"backtrace" : 91,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/protocomm"
+				},
+				{
+					"backtrace" : 92,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/pthread"
+				},
+				{
+					"backtrace" : 93,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/sdmmc"
+				},
+				{
+					"backtrace" : 94,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/smartconfig_ack"
+				},
+				{
+					"backtrace" : 95,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/soc"
+				},
+				{
+					"backtrace" : 96,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/spi_flash"
+				},
+				{
+					"backtrace" : 97,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/spiffs"
+				},
+				{
+					"backtrace" : 98,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/tcp_transport"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/tcpip_adapter"
+				},
+				{
+					"backtrace" : 100,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/ulp"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/unity"
+				},
+				{
+					"backtrace" : 102,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/vfs"
+				},
+				{
+					"backtrace" : 103,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/wear_levelling"
+				},
+				{
+					"backtrace" : 104,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/wifi_provisioning"
+				},
+				{
+					"backtrace" : 105,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/wpa_supplicant"
+				},
+				{
+					"backtrace" : 106,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/xtensa-debug-module"
+				},
+				{
+					"backtrace" : 107,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp-face"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/esp32-camera"
+				},
+				{
+					"backtrace" : 109,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/tools/sdk/include/fb_gfx"
+				},
+				{
+					"backtrace" : 110,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/cores/esp32"
+				},
+				{
+					"backtrace" : 111,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/variants/m5stack_core_esp32"
+				},
+				{
+					"backtrace" : 112,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/HTTPClient/src"
+				},
+				{
+					"backtrace" : 113,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/SD/src"
+				},
+				{
+					"backtrace" : 114,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/WiFi/src"
+				},
+				{
+					"backtrace" : 115,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/WiFiClientSecure/src"
+				},
+				{
+					"backtrace" : 116,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/Wire/src"
+				},
+				{
+					"backtrace" : 117,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/ArduinoOTA/src"
+				},
+				{
+					"backtrace" : 118,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/AsyncUDP/src"
+				},
+				{
+					"backtrace" : 119,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/AzureIoT/src"
+				},
+				{
+					"backtrace" : 120,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/BLE/src"
+				},
+				{
+					"backtrace" : 121,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/BluetoothSerial/src"
+				},
+				{
+					"backtrace" : 122,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/DNSServer/src"
+				},
+				{
+					"backtrace" : 123,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/EEPROM/src"
+				},
+				{
+					"backtrace" : 124,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/ESP32/src"
+				},
+				{
+					"backtrace" : 125,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/ESPmDNS/src"
+				},
+				{
+					"backtrace" : 126,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/FFat/src"
+				},
+				{
+					"backtrace" : 127,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/HTTPUpdate/src"
+				},
+				{
+					"backtrace" : 128,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/HTTPUpdateServer/src"
+				},
+				{
+					"backtrace" : 129,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/NetBIOS/src"
+				},
+				{
+					"backtrace" : 130,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/Preferences/src"
+				},
+				{
+					"backtrace" : 131,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/SD_MMC/src"
+				},
+				{
+					"backtrace" : 132,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/SimpleBLE/src"
+				},
+				{
+					"backtrace" : 133,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/Ticker/src"
+				},
+				{
+					"backtrace" : 134,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/Update/src"
+				},
+				{
+					"backtrace" : 135,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/WebServer/src"
+				},
+				{
+					"backtrace" : 136,
+					"path" : "/Users/jim/.platformio/packages/framework-arduinoespressif32@3.10006.210326/libraries/WiFiProv/src"
+				},
+				{
+					"backtrace" : 137,
+					"path" : "/Users/jim/.platformio/packages/toolchain-xtensa32@2.50200.97/xtensa-esp32-elf/include/c++/5.2.0"
+				},
+				{
+					"backtrace" : 138,
+					"path" : "/Users/jim/.platformio/packages/toolchain-xtensa32@2.50200.97/xtensa-esp32-elf/include/c++/5.2.0/xtensa-esp32-elf"
+				},
+				{
+					"backtrace" : 139,
+					"path" : "/Users/jim/.platformio/packages/toolchain-xtensa32@2.50200.97/lib/gcc/xtensa-esp32-elf/5.2.0/include"
+				},
+				{
+					"backtrace" : 140,
+					"path" : "/Users/jim/.platformio/packages/toolchain-xtensa32@2.50200.97/lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed"
+				},
+				{
+					"backtrace" : 141,
+					"path" : "/Users/jim/.platformio/packages/toolchain-xtensa32@2.50200.97/xtensa-esp32-elf/include"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "99"
+			},
+			"sourceIndexes" : 
+			[
+				5,
+				6,
+				107,
+				108,
+				141,
+				144,
+				158,
+				291,
+				391,
+				393,
+				395,
+				397,
+				399,
+				455,
+				496,
+				498,
+				681,
+				683,
+				684,
+				686,
+				688,
+				690,
+				692,
+				694,
+				696,
+				698,
+				700,
+				702,
+				704,
+				705,
+				706,
+				707,
+				708,
+				709,
+				710,
+				711,
+				712,
+				713,
+				714,
+				715,
+				716,
+				717,
+				718,
+				719,
+				720,
+				721,
+				722,
+				723,
+				724,
+				725,
+				726,
+				727,
+				728,
+				729,
+				730,
+				731,
+				732,
+				733,
+				734,
+				735,
+				736,
+				737,
+				738,
+				739,
+				740,
+				741,
+				742,
+				743,
+				744,
+				745,
+				747,
+				749,
+				751,
+				753,
+				755,
+				757,
+				759,
+				761,
+				764,
+				768,
+				770,
+				772,
+				774,
+				776,
+				779
+			]
+		}
+	],
+	"id" : "Z_DUMMY_TARGET::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-fno-rtti -fno-exceptions -std=gnu++11 -Os -g3 -Wall -nostdlib -Wpointer-arith -Wno-error=unused-but-set-variable -Wno-error=unused-variable -mlongcalls -ffunction-sections -fdata-sections -fstrict-volatile-bitfields -Wno-error=deprecated-declarations -Wno-error=unused-function -Wno-unused-parameter -Wno-sign-compare -fstack-protector -fexceptions -Werror=reorder",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Z_DUMMY_TARGET",
+	"nameOnDisk" : "Z_DUMMY_TARGET",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				4,
+				5,
+				6,
+				15,
+				30,
+				95,
+				96,
+				107,
+				108,
+				119,
+				123,
+				126,
+				128,
+				130,
+				141,
+				144,
+				146,
+				149,
+				151,
+				154,
+				156,
+				158,
+				159,
+				161,
+				163,
+				165,
+				184,
+				187,
+				190,
+				193,
+				196,
+				199,
+				203,
+				206,
+				209,
+				211,
+				213,
+				216,
+				218,
+				220,
+				228,
+				231,
+				249,
+				252,
+				257,
+				262,
+				288,
+				291,
+				319,
+				325,
+				334,
+				338,
+				345,
+				347,
+				350,
+				354,
+				356,
+				364,
+				368,
+				371,
+				373,
+				375,
+				378,
+				380,
+				391,
+				393,
+				395,
+				397,
+				399,
+				455,
+				457,
+				459,
+				461,
+				463,
+				465,
+				468,
+				470,
+				477,
+				480,
+				482,
+				484,
+				486,
+				488,
+				490,
+				492,
+				494,
+				496,
+				498,
+				500,
+				510,
+				512,
+				514,
+				516,
+				518,
+				529,
+				532,
+				534,
+				536,
+				538,
+				540,
+				542,
+				544,
+				549,
+				551,
+				553,
+				555,
+				557,
+				559,
+				561,
+				563,
+				565,
+				567,
+				569,
+				571,
+				573,
+				575,
+				577,
+				579,
+				581,
+				583,
+				585,
+				587,
+				589,
+				591,
+				593,
+				595,
+				597,
+				599,
+				601,
+				603,
+				605,
+				607,
+				609,
+				611,
+				613,
+				615,
+				617,
+				619,
+				621,
+				623,
+				625,
+				627,
+				629,
+				631,
+				633,
+				635,
+				637,
+				639,
+				641,
+				643,
+				645,
+				647,
+				649,
+				651,
+				653,
+				655,
+				657,
+				659,
+				661,
+				663,
+				665,
+				667,
+				669,
+				671,
+				673,
+				681,
+				683,
+				684,
+				686,
+				688,
+				690,
+				692,
+				694,
+				696,
+				698,
+				700,
+				702,
+				704,
+				705,
+				706,
+				707,
+				708,
+				709,
+				710,
+				711,
+				712,
+				713,
+				714,
+				715,
+				716,
+				717,
+				718,
+				719,
+				720,
+				721,
+				722,
+				723,
+				724,
+				725,
+				726,
+				727,
+				728,
+				729,
+				730,
+				731,
+				732,
+				733,
+				734,
+				735,
+				736,
+				737,
+				738,
+				739,
+				740,
+				741,
+				742,
+				743,
+				744,
+				745,
+				747,
+				749,
+				751,
+				753,
+				755,
+				757,
+				759,
+				761,
+				764,
+				768,
+				770,
+				772,
+				774,
+				776,
+				779
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1,
+				3,
+				16,
+				19,
+				23,
+				27,
+				31,
+				32,
+				51,
+				52,
+				53,
+				75,
+				97,
+				99,
+				100,
+				120,
+				124,
+				127,
+				129,
+				131,
+				145,
+				147,
+				150,
+				152,
+				155,
+				157,
+				160,
+				162,
+				164,
+				166,
+				169,
+				171,
+				174,
+				176,
+				178,
+				180,
+				185,
+				188,
+				191,
+				194,
+				197,
+				200,
+				204,
+				207,
+				210,
+				212,
+				214,
+				217,
+				219,
+				221,
+				229,
+				232,
+				250,
+				253,
+				254,
+				258,
+				263,
+				269,
+				289,
+				320,
+				326,
+				335,
+				339,
+				346,
+				348,
+				355,
+				365,
+				369,
+				372,
+				374,
+				376,
+				379,
+				381,
+				385,
+				386,
+				387,
+				388,
+				389,
+				390,
+				392,
+				394,
+				396,
+				398,
+				400,
+				401,
+				402,
+				403,
+				404,
+				405,
+				406,
+				407,
+				408,
+				409,
+				410,
+				411,
+				412,
+				413,
+				414,
+				415,
+				416,
+				417,
+				418,
+				419,
+				420,
+				421,
+				422,
+				423,
+				424,
+				425,
+				426,
+				427,
+				428,
+				429,
+				430,
+				431,
+				432,
+				433,
+				434,
+				435,
+				436,
+				437,
+				438,
+				439,
+				440,
+				441,
+				442,
+				443,
+				444,
+				445,
+				446,
+				447,
+				448,
+				449,
+				450,
+				453,
+				456,
+				458,
+				460,
+				462,
+				464,
+				466,
+				467,
+				469,
+				471,
+				472,
+				473,
+				474,
+				475,
+				476,
+				478,
+				479,
+				481,
+				483,
+				485,
+				487,
+				489,
+				491,
+				493,
+				495,
+				497,
+				499,
+				501,
+				511,
+				513,
+				515,
+				517,
+				519,
+				523,
+				530,
+				531,
+				533,
+				535,
+				537,
+				539,
+				541,
+				543,
+				545,
+				546,
+				550,
+				552,
+				554,
+				556,
+				558,
+				560,
+				562,
+				564,
+				566,
+				568,
+				570,
+				572,
+				574,
+				576,
+				578,
+				580,
+				582,
+				584,
+				586,
+				588,
+				590,
+				592,
+				594,
+				596,
+				598,
+				600,
+				602,
+				604,
+				606,
+				608,
+				610,
+				612,
+				614,
+				616,
+				618,
+				620,
+				622,
+				624,
+				626,
+				628,
+				630,
+				632,
+				634,
+				636,
+				638,
+				640,
+				642,
+				644,
+				646,
+				648,
+				650,
+				652,
+				654,
+				656,
+				658,
+				660,
+				662,
+				664,
+				666,
+				668,
+				670,
+				672,
+				674,
+				675,
+				676,
+				682,
+				685,
+				687,
+				689,
+				691,
+				693,
+				695,
+				697,
+				699,
+				701,
+				703,
+				746,
+				748,
+				750,
+				752,
+				754,
+				756,
+				758,
+				760,
+				762,
+				763,
+				765,
+				766,
+				767,
+				769,
+				771,
+				773,
+				775,
+				777,
+				778,
+				780
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				17,
+				18,
+				20,
+				21,
+				22,
+				24,
+				25,
+				26,
+				28,
+				29,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				98,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				121,
+				122,
+				125,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				142,
+				143,
+				148,
+				153,
+				167,
+				168,
+				170,
+				172,
+				173,
+				175,
+				177,
+				179,
+				181,
+				182,
+				183,
+				186,
+				189,
+				192,
+				195,
+				198,
+				201,
+				202,
+				205,
+				208,
+				215,
+				222,
+				223,
+				224,
+				225,
+				226,
+				227,
+				230,
+				233,
+				234,
+				235,
+				236,
+				237,
+				238,
+				239,
+				240,
+				241,
+				242,
+				243,
+				244,
+				245,
+				246,
+				247,
+				248,
+				251,
+				255,
+				256,
+				259,
+				260,
+				261,
+				264,
+				265,
+				266,
+				267,
+				268,
+				270,
+				271,
+				272,
+				273,
+				274,
+				275,
+				276,
+				277,
+				278,
+				279,
+				280,
+				281,
+				282,
+				283,
+				284,
+				285,
+				286,
+				287,
+				290,
+				292,
+				293,
+				294,
+				295,
+				296,
+				297,
+				298,
+				299,
+				300,
+				301,
+				302,
+				303,
+				304,
+				305,
+				306,
+				307,
+				308,
+				309,
+				310,
+				311,
+				312,
+				313,
+				314,
+				315,
+				316,
+				317,
+				318,
+				321,
+				322,
+				323,
+				324,
+				327,
+				328,
+				329,
+				330,
+				331,
+				332,
+				333,
+				336,
+				337,
+				340,
+				341,
+				342,
+				343,
+				344,
+				349,
+				351,
+				352,
+				353,
+				357,
+				358,
+				359,
+				360,
+				361,
+				362,
+				363,
+				366,
+				367,
+				370,
+				377,
+				382,
+				383,
+				384,
+				451,
+				452,
+				454,
+				502,
+				503,
+				504,
+				505,
+				506,
+				507,
+				508,
+				509,
+				520,
+				521,
+				522,
+				524,
+				525,
+				526,
+				527,
+				528,
+				547,
+				548,
+				677,
+				678,
+				679,
+				680
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/controller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/controller.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/display.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/display.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "src/osd.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "src/sound.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/.gitignore",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/.piopm",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/CMakeLists.txt",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/README.md",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/component.mk",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Audio/PlayMP3FromSDToDAC/PlayMP3FromSDToDAC.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Audio/PlayMP3FromSPIFFSToDAC/PlayMP3FromSPIFFSToDAC.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Audio/PlayWAVFromSDToDAC/PlayWAVFromSDToDAC.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Blynk/Post-DHT12/DHT12.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Blynk/Post-DHT12/DHT12.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Blynk/Post-DHT12/Post-DHT12.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/All_Free_Fonts_Demo/All_Free_Fonts_Demo.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/All_Free_Fonts_Demo/Free_Fonts.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Bmp_Jpg_SPIFFS_draw/Bmp_Jpg_SPIFFS_draw.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Bmp_Jpg_SPIFFS_draw/data/pcd.bmp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Cellular_Automata/Cellular_Automata.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Display_Unicode/CUF_24px.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Display_Unicode/Display_Unicode.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Display_Unicode/README.md",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Free_Font_Demo/Free_Font_Demo.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Free_Font_Demo/Free_Fonts.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/HZK16/HZK16.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/HZK16/README.md",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/HZK16/display_ch.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/HZK16/display_ch.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/HZK16/str.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/JpegDraw/JpegDraw.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/RLE_Font_test/RLE_Font_test.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Sprite/Sprite_RLE_Font_test/Sprite_RLE_Font_test.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Sprite/Sprite_TFT_Rainbow/Sprite_TFT_Rainbow.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Sprite/Sprite_drawPixel/Sprite_drawPixel.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Sprite/Sprite_scroll/Sprite_scroll.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Sprite/Sprite_scroll_16bit/Sprite_scroll_16bit.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Sprite/Sprite_scroll_8bit/Sprite_scroll_8bit.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Sprite/Transparent_Sprite_Demo/Transparent_Sprite_Demo.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Sprite/one_bit_Sprite_Demo/one_bit_Sprite_Demo.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/Sprite/one_bit_Yin_Yang/one_bit_Yin_Yang.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_ArcFill/TFT_ArcFill.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Char_times/TFT_Char_times.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Clock/TFT_Clock.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Clock_Digital/TFT_Clock_Digital.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Custom_Fonts/TFT_Custom_Fonts.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Ellipse/TFT_Ellipse.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_FillArcSpiral/TFT_FillArcSpiral.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Flash_Bitmap/Alert.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Flash_Bitmap/Close.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Flash_Bitmap/Info.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Flash_Bitmap/TFT_Flash_Bitmap.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Float_Test/TFT_Float_Test.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Mandlebrot/TFT_Mandlebrot.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Matrix/TFT_Matrix.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Meter_linear/TFT_Meter_linear.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Meters/TFT_Meters.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Pie_Chart/TFT_Pie_Chart.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Pong/TFT_Pong.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Print_Test/TFT_Print_Test.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Rainbow_one_lib/TFT_Rainbow_one_lib.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Screen_Capture/TFT_Screen_Capture.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Screen_Capture/processing_sketch.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Screen_Capture/screenServer.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Spiro/TFT_Spiro.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Starfield/TFT_Starfield.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_String_Align/TFT_String_Align.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_Terminal/TFT_Terminal.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_graphicstest_PDQ/TFT_graphicstest_PDQ.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/TFT_graphicstest_one_lib/TFT_graphicstest_one_lib.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/UTFT_demo/UTFT_demo.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/drawXBitmap/drawXBitmap.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/drawXBitmap/xbm.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Display/png_spiffs/png_spiffs.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/EzData/EzData.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/HallSensor/HallSensor.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/I2C_Tester/I2C_Tester.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/MQTT/MQTT.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/MultSerial/MultSerial.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/MultiTask/MultiTask.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/QRCode/QRCode.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Storage/Counter/Counter.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Storage/EEPROM/EEPROM.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Storage/SPIFFS/SPIFFS/SPIFFS.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Storage/SPIFFS/SPIFFS_Add/SPIFFS_Add.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Storage/SPIFFS/SPIFFS_Delete/SPIFFS_Delete.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/Time/Time.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/BasicHttpClient/BasicHttpClient.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/OTAUpload/OTAUpload.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/WiFiAccessPoint/WiFiAccessPoint.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/WiFiMulti/WiFiMulti.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/WiFiScan/WiFiScan.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/WiFiSetting/Parsing.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/WiFiSetting/WebServer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/WiFiSetting/WebServer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/WiFiSetting/WiFiSetting.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/WiFiSetting/detail/RequestHandler.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/WiFiSetting/detail/RequestHandlersImpl.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/WiFiSmartConfig/WiFiSmartConfig.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/WiFiTCP/WiFiTCP.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Advanced/WIFI/mDNS_Find/mDNS_Find.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Basics/Button/Button.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Basics/Display/Display.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Basics/FactoryTest/FactoryTest.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Basics/FactoryTest/bmp_map.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Basics/FactoryTest/startup_music.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Basics/HelloWorld/HelloWorld.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Basics/IMU/IMU.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Basics/PowerOFF/PowerOFF.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Basics/Sleep/Sleep.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Basics/Speaker/Speaker.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Basics/bmm150/bmm150.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/CALCULATOR/CALCULATOR.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/ENCODER/ENCODER.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/FACESII_RGB_BAR/FACESII_RGB_BAR.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/FINGER/FINGER.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/FINGER/finger.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/FINGER/finger.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/JOYSTICK/JOYSTICK.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/KEYBOARD/KEYBOARD.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/RFID/MFRC522_I2C.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/RFID/MFRC522_I2C.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/RFID/RFID.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/Snake_Gameboy/GameBoard.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/Snake_Gameboy/GameBoard.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/Snake_Gameboy/GameboyInput.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/Snake_Gameboy/GameboyInput.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/Snake_Gameboy/Power.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/Snake_Gameboy/Power.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Face/Snake_Gameboy/Snake_Gameboy.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Fire/Microphone/Microphone.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Fire/MicrophoneSignalTFT/MicrophoneSignalTFT.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Fire/MicrophoneSpectrumTFT/MicrophoneSpectrumTFT.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Fire/RGB_BAR_TEST/RGB_BAR_TEST.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Fire/RGB_BAR_VUmeter/RGB_BAR_VUmeter.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Fire/SpeakerDacSine/SpeakerDacSine.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Games/FlappyBird/FlappyBird.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Games/Tetris/Tetris.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Games/Tetris/tetris_img.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/KIT/SCALES_KIT/SCALES_KIT.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/AC-SOCKET/AC-SOCKET.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/AC-SOCKET/modbus.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/AC-SOCKET/modbus.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/AC-SOCKET/protocol.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/AC-SOCKET/protocol.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA/BALA.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA/M5Bala.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA/M5Bala.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA/imuCalibration.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA/imuCalibration.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA2/BALA2.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA2/MadgwickAHRS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA2/MadgwickAHRS.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA2/bala.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA2/bala.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA2/bala_img.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA2/calibration.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA2/calibration.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA2/imu_filter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA2/imu_filter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA2/pid.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BALA2/pid.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BaseX/BaseX.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BaseX/BaseX.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/BaseX/BaseX.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COMMU/CAN/commu_can_receiver/commu_can_receiver.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COMMU/CAN/commu_can_receiver/m5_logo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COMMU/CAN/commu_can_transmitter/commu_can_transmitter.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COMMU/CAN/commu_can_transmitter/m5_logo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COMMU/MCP_CAN_lib.rar",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COMMU/RS485/commu_rs485_A/commu_rs485_A.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COMMU/RS485/commu_rs485_A/m5_logo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COMMU/RS485/commu_rs485_B/commu_rs485_B.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COMMU/RS485/commu_rs485_B/m5_logo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COMMU/factory_test/COMMU_Test_A/COMMU_Test_A.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COMMU/factory_test/COMMU_Test_A/m5_logo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COMMU/factory_test/COMMU_Test_B/COMMU_Test_B.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COMMU/factory_test/COMMU_Test_B/m5_logo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_CAT1_SIM7680/COM_CAT1_SIM7680.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_GPS/COM_GPS.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_GSM/COM_GSM.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_GSM/TFTTerminal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_GSM/TFTTerminal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LTE-DATA/COM_LTE-DATA.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LTE-DATA/TFTTerminal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LTE-DATA/TFTTerminal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LTE/COM_LTE.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LTE/TFTTerminal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LTE/TFTTerminal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LoRaWAN/LoRaWAN_Receive/LoRaWAN_Receive.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LoRaWAN/LoRaWAN_Receive/TFTTerminal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LoRaWAN/LoRaWAN_Receive/TFTTerminal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LoRaWAN/LoRaWAN_Send/LoRaWAN_Send.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LoRaWAN/LoRaWAN_Send/TFTTerminal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LoRaWAN/LoRaWAN_Send/TFTTerminal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LoRaWAN470/COM_LoRaWAN470.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LoRaWAN470/TFTTerminal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LoRaWAN470/TFTTerminal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_LoRaWAN915/COM_LoRaWAN915.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_NB-IoT/COM_NB-IoT.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_NB-IoT/TFTTerminal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_NB-IoT/TFTTerminal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_SigFox/COM_SigFox.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/P2P_TEST/DRFZigbee.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/P2P_TEST/DRFZigbee.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/P2P_TEST/P2P_TEST.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/P2P_TEST/byteArray.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/P2P_TEST/byteArray.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/P2P_TEST/resource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/P2P_TEST/resource.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/RSSI_TEST/DRFZigbee.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/RSSI_TEST/DRFZigbee.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/RSSI_TEST/RSSI_TEST.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/RSSI_TEST/byteArray.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/RSSI_TEST/byteArray.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/RSSI_TEST/resource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/COM_Zigbee_CC2630/RSSI_TEST/resource.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/DHT12/DHT12.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/DHT12/DHT12.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/DHT12/DHT12.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/GPS_NEO_M8N/FullExample/FullExample.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/GPS_NEO_M8N/GPSRaw/GPSRaw.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/GPS_NEO_M8N/GPSRaw/TFT_Terminal.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/GSM_M6315/GSM_M6315.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/GoPLUS/GoPLUS.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/GoPLUS/GoPlus.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/GoPLUS/GoPlus.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/GoPLUS2/GoPLUS2.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/GoPLUS2/GoPlus2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/GoPLUS2/GoPlus2.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/LAN_W5500/WebServer/WebServer.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/LEGO_PLUS/LEGO_PLUS.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/LORA868_SX1276/LoRa868Duplex/LoRa868Duplex.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/LTE_M8321/LTE_M8321.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/LoRa433_SX1278/LoRaDumpRegisters/LoRaDumpRegisters.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/LoRa433_SX1278/LoRaDuplex/LoRaDuplex.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/LoRa433_SX1278/LoRaDuplexCallback/LoRaDuplexCallback.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/LoRa433_SX1278/LoRaReceiver/LoRaReceiver.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/LoRa433_SX1278/LoRaReceiverCallback/LoRaReceiverCallback.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/LoRa433_SX1278/LoRaSender/LoRaSender.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/LoRa433_SX1278/LoRaSetSpread/LoRaSetSpread.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/LoRa433_SX1278/LoRaSetSyncWord/LoRaSetSyncWord.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/LoRaWAN_RHF76_052/LoRaWAN_RHF76_052.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/NB-IoT-PLUS_M5311GB/NB-IoT-PLUS_M5311GB.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/NB-IoT_M5311LV/NB-IoT_M5311LV.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/ODrive/ODrive.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/ODrive/odrive.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/ODrive/odrive.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/PLUS/PLUS.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/PM2.5_PMSA003/DFRobot_SHT20.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/PM2.5_PMSA003/DFRobot_SHT20.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/PM2.5_PMSA003/Free_Fonts.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/PM2.5_PMSA003/PM2.5_PMSA003.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/SERVO/SERVO.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/SERVO2_PCA9685/Adafruit_PWMServoDriver.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/SERVO2_PCA9685/Adafruit_PWMServoDriver.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/SERVO2_PCA9685/SERVO2_PCA9685.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/SIM800L/ATCOM/AT/AT.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/SIM800L/HTTP/HTTP.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/SIM800L/HTTP/TFTTerminal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/SIM800L/HTTP/TFTTerminal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/SIM800L/SIM800L_FactoryTest/SIM800L_FactoryTest.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/SIM800L/send_short_message/send_short_message.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/StepmotorGRBL13.2_M035/multi_control/multi_control.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/StepmotorGRBL13.2_M035/xyz_control/xyz_control.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/StepmotorGRBL_M012/StepmotorGRBL_M012.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/USB_MAX3421E/usb_mouse/M5Mouse.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Modules/USB_MAX3421E/usb_mouse/usb_mouse.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/4-RELAY/4-RELAY.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/ACCEL_ADXL345/ACCEL_ADXL345.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/ADC_ADS1100/ADC_ADS1100.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/AMeter_ADS1115/AMeter_ADS1115.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/ANGLE/ANGLE.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/BPS_BMP280/BPS_BMP280.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/BPS_QMP6988/BPS_QMP6988.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/BUTTON/BUTTON.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/CAN/CAN.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/CATCH/CATCH.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/CATEAR_SK6812/CATEAR_SK6812.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/CATM_GNSS_SIM7080G/CoAP/CoAP.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/CATM_GNSS_SIM7080G/GNSS/GNSS.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/CATM_GNSS_SIM7080G/MQTT_CLIENT/MQTT_CLIENT.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/COLOR_TCS3472/COLOR_TCS3472.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/CardKB/CardKB.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/DAC_MCP4725/DAC_MCP4725.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/DDS_AD9833/DDSUnit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/DDS_AD9833/DDSUnit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/DDS_AD9833/DDS_AD9833.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/DDS_AD9833/WaveIcon.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/DLIGHT_BH1750FVI/DLIGHT_BH1750FVI.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/DUAL_BUTTON/DUAL_BUTTON.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/EARTH/EARTH.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/ENVIII_SHT30_QMP6988/ENVIII_SHT30_QMP6988.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/ENVII_SHT30_BMP280/ENVII_SHT30_BMP280.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/ENV_DHT12_BMP280/ENV_DHT12_BMP280.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/EXT_IO_PCA9554PW/EXT_IO_PCA9554PW.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/FADER/FADER.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/FAN/FAN.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/FINGER_FPC1020A/FINGER_FPC1020A.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/GESTURE_PAJ7620U2/GESTURE_PAJ7620U2.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/GPS_AT6558/FullExample/FullExample.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/GPS_AT6558/GPSRaw/GPSRaw.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/GPS_AT6558/GPSRaw/TFT_Terminal.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/HALL/HALL.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/HEART_MAX30100/MAX30100_RawData/MAX30100_RawData.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/HEART_MAX30100/ScreenShow/ScreenShow.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/HEX_SK6812/HEX_SK6812.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/IR/IR.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/ISO485/ISO485.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/JOYSTICK/JOYSTICK.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/LASER/LASER.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/LCD_ST7789V2/LCD_ST7789V2.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/LIGHT/LIGHT.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/LoRaWAN470/LoRaWAN470.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/LoRaWAN868/LoRaWAN868.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/LoRaWAN915/LoRaWAN915.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/LoRaWAN915/TFTTerminal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/LoRaWAN915/TFTTerminal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/M5BIT/M5BIT.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/MAKEY/MAKEY.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/NBIoT_SIM7020/NBIoT_SIM7020.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/NCIR_MLX90614/NCIR_MLX90614.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/NEOFLASH_SK6812_PIR/DisplayCurrentTime.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/NEOFLASH_SK6812_PIR/DisplayCurrentTime.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/NEOFLASH_SK6812_PIR/NEOFLASH_SK6812_PIR.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/OLED_SH1107/OLED_SH1107.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/OP90.180_ITR9606/OP90.180_ITR9606.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/PDM_SPM1423/PDM_SPM1423.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/PIR/PIR.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/PaHUB_TCA9548A/PaHUB_TCA9548A.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/PbHUB/PbHUB.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/PbHUB/porthub.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/PbHUB/porthub.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/RELAY/RELAY.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/RF433/RF433.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/RFID_RC522/MFRC522_I2C.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/RFID_RC522/MFRC522_I2C.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/RFID_RC522/RFID_RC522.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/RGB_LED_SK6812/display_rainbow/display_rainbow.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/RGB_SK6812/RGB_SK6812.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/RS485_SP485EEN/RS485_SP485EEN.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/RTC_BM8563/RTC_BM8563.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/THERMAL_MLX90640/MLX90640_API.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/THERMAL_MLX90640/MLX90640_API.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/THERMAL_MLX90640/MLX90640_I2C_Driver.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/THERMAL_MLX90640/MLX90640_I2C_Driver.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/THERMAL_MLX90640/THERMAL_MLX90640.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/THERMAL_MLX90640/interpolation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/TRACE/TRACE.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/TVOC_SGP30/TVOC_SGP30.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/ToF_VL53L0X/ToF_VL53L0X.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/UHF_RFID_JRD4035/RFID_command.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/UHF_RFID_JRD4035/RFID_command.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/UHF_RFID_JRD4035/RFID_command_basics.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/UHF_RFID_JRD4035/UHF_RFID_JRD4035.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/ULTRA_SONIC/ULTRA_SONIC.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/UNIT_SONIC/UNIT_SONIC_I2C/UNIT_SONIC_I2C.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/UNIT_SONIC/UNIT_SONIC_IO/UNIT_SONIC_IO.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/UWB_DW1000/UWB_DW1000.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/VIBRATOR/VIBRATOR.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/VMeter_ADS1115/VMeter_ADS1115.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/VMeter_ADS1115/voltmeter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/VMeter_ADS1115/voltmeter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/WATERING/WATERING.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/WEIGHT_HX711/WEIGHT_HX711.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/P2P_TEST/DRFZigbee.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/P2P_TEST/DRFZigbee.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/P2P_TEST/P2P_TEST.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/P2P_TEST/byteArray.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/P2P_TEST/byteArray.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/P2P_TEST/resource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/P2P_TEST/resource.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/RSSI_TEST/DRFZigbee.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/RSSI_TEST/DRFZigbee.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/RSSI_TEST/RSSI_TEST.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/RSSI_TEST/byteArray.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/RSSI_TEST/byteArray.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/RSSI_TEST/resource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/examples/Unit/Zigbee_CC2630/RSSI_TEST/resource.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/keywords.txt",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/library.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/library.properties",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/ASC16.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Custom/Orbitron_Light_24.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Custom/Orbitron_Light_32.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Custom/Roboto_Thin_24.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Custom/Satisfy_24.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Custom/Yellowtail_32.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Font16.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Font16.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Font32rle.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Font32rle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Font64rle.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Font64rle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Font72rle.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Font72rle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Font7srle.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/Font7srle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMono12pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMono18pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMono24pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMono9pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMonoBold12pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMonoBold18pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMonoBold24pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMonoBold9pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMonoBoldOblique12pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMonoBoldOblique18pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMonoBoldOblique24pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMonoBoldOblique9pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMonoOblique12pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMonoOblique18pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMonoOblique24pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeMonoOblique9pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSans12pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSans18pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSans24pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSans9pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSansBold12pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSansBold18pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSansBold24pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSansBold9pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSansBoldOblique12pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSansBoldOblique18pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSansBoldOblique24pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSansBoldOblique9pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSansOblique12pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSansOblique18pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSansOblique24pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSansOblique9pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerif12pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerif18pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerif24pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerif9pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerifBold12pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerifBold18pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerifBold24pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerifBold9pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerifBoldItalic12pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerifBoldItalic18pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerifBoldItalic24pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerifBoldItalic9pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerifItalic12pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerifItalic18pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerifItalic24pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/FreeSerifItalic9pt7b.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/TomThumb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/gfxfont.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/license.txt",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/GFXFF/print.txt",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/HZK16.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/TrueType/Not_yet_supported.txt",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Fonts/glcdfont.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/Free_Fonts.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/LoRaWan.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/LoRaWan.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/M5Display.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/M5Display.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/M5Faces.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/M5Faces.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/M5LoRa.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/M5LoRa.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/M5Stack.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/M5Stack.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/gitTagVersion.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/Button.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/Button.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/CommUtil.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/CommUtil.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/Config.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/ILI9341_Defines.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/ILI9341_Init.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/ILI9341_Rotation.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/ILI9342C_Init.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/In_eSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/In_eSPI.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/In_eSPI_Setup.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/M5Timer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/M5Timer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/MPU6886.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/MPU6886.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/MPU9250.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/MPU9250.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/MahonyAHRS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/MahonyAHRS.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/Power.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/Power.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/SH200Q.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/SH200Q.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/Speaker.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/Speaker.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/Sprite.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/Sprite.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/pngle.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/pngle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/qrcode.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/qrcode.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/quaternionFilters.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/src/utility/quaternionFilters.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack/tools/bin2code.py",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/.piopm",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/README.md",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/component.mk",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/examples/nouseTextbox/nouseTextbox.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/examples/simple/simple.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/library.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/library.properties",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/src/M5ButtonDrawer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/src/M5ButtonDrawer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/src/M5FACESEncoder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/src/M5FACESEncoder.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/src/M5JoyStick.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/src/M5JoyStick.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/src/M5OnScreenKeyboard.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/src/M5OnScreenKeyboard.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/src/M5PLUSEncoder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_OnScreenKeyboard/src/M5PLUSEncoder.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/.piopm",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/README.md",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/component.mk",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/examples/demo/HeaderSample.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/examples/demo/demo.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/examples/filesystem/filesystem.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/examples/simple/simple.ino",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/library.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/library.properties",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/M5TreeView.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/M5TreeView.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuCallBack.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItemFS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItemFS.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItemNumeric.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItemNumeric.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItemSD.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItemSD.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItemSPIFFS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItemSPIFFS.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItemToggle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItemToggle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItemWiFiClient.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/MenuItemWiFiClient.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/M5Stack_TreeView/src/Rect16.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/ILI9341/integrity.dat",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/.DS_Store",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/Arduino_DataBus.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/Arduino_DataBus.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/Arduino_G.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/Arduino_G.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/Arduino_GFX.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/Arduino_GFX.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/Arduino_GFX_Library.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/Arduino_GFX_Library.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/Arduino_TFT.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/Arduino_TFT.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/Arduino_TFT_18bit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/Arduino_TFT_18bit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/canvas/Arduino_Canvas.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/canvas/Arduino_Canvas.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/canvas/Arduino_Canvas_3bit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/canvas/Arduino_Canvas_3bit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/canvas/Arduino_Canvas_Indexed.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/canvas/Arduino_Canvas_Indexed.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/canvas/Arduino_Canvas_Mono.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/canvas/Arduino_Canvas_Mono.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_AVRPAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_AVRPAR8.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32I2S8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32I2S8.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16Q.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16Q.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16QQ.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16QQ.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8Q.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8Q.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8QQ.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8QQ.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR16.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR16.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR16Q.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR16Q.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR8.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32SPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP32SPI.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP8266SPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_ESP8266SPI.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_HWSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_HWSPI.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_NRFXSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_NRFXSPI.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_RPiPicoPAR16.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_RPiPicoPAR16.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_RPiPicoPAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_RPiPicoPAR8.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_RPiPicoSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_RPiPicoSPI.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_RTLPAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_RTLPAR8.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_STM32PAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_STM32PAR8.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_SWSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_SWSPI.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_mbedSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/databus/Arduino_mbedSPI.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_GC9106.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_GC9106.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_GC9A01.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_GC9A01.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_HX8347C.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_HX8347C.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_HX8347D.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_HX8347D.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_HX8352C.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_HX8352C.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_HX8357A.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_HX8357A.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_HX8357B.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_HX8357B.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9225.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9225.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9331.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9331.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9341.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9341.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9341_M5STACK.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9341_M5STACK.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9342.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9342.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9481_18bit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9481_18bit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9486.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9486.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9486_18bit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9486_18bit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9488.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9488.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9488_18bit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9488_18bit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9488_3bit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9488_3bit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9806.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ILI9806.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_JBT6K71.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_JBT6K71.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_NT35310.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_NT35310.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_NT35510.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_NT35510.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_NT39125.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_NT39125.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_R61529.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_R61529.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_SEPS525.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_SEPS525.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_SSD1283A.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_SSD1283A.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_SSD1331.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_SSD1331.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_SSD1351.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_SSD1351.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ST7735.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ST7735.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ST7789.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ST7789.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ST7796.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/display/Arduino_ST7796.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/font/glcdfont.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/GFX Library for Arduino/src/gfxfont.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/.DS_Store",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/COPYING.LGPL",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/README.md",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/.DS_Store",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/bitmap.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/bitmap.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/config.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/cpu/dis6502.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/cpu/dis6502.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/cpu/nes6502.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/cpu/nes6502.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/event.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/event.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/gui.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/gui.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/gui_elem.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/gui_elem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/inputs/i2c_keyboard.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/inputs/i2c_keyboard.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/inputs/psxcontroller.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/inputs/psxcontroller.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/intro.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/intro.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/libsnss/libsnss.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/libsnss/libsnss.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/log.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/log.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map000.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map001.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map002.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map003.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map004.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map005.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map007.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map008.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map009.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map010.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map011.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map015.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map016.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map018.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map019.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map024.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map032.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map033.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map034.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map040.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map041.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map042.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map046.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map050.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map064.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map065.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map066.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map070.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map073.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map075.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map078.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map079.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map085.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map087.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map093.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map094.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map099.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map160.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map229.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/map231.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/mappers/mapvrc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/memguard.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/memguard.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/mmclist.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/mmclist.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nes.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nes.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nes_mmc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nes_mmc.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nes_pal.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nes_pal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nes_ppu.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nes_ppu.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nes_rom.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nes_rom.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nesinput.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nesinput.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nesstate.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nes/nesstate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nofconfig.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nofrendo.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/nofrendo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/noftypes.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/osd.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/pcx.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/pcx.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/sndhrdw/fds_snd.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/sndhrdw/fds_snd.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/sndhrdw/mmc5_snd.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/sndhrdw/mmc5_snd.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/sndhrdw/nes_apu.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/sndhrdw/nes_apu.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/sndhrdw/vrcvisnd.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/sndhrdw/vrcvisnd.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/version.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/vid_drv.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ext_libs/arduino-nofrendo/src/vid_drv.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

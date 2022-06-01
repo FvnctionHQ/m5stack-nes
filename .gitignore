@@ -1,3 +1,7 @@
+# Platform IO
+.pio
+.vscode
+
 # Prerequisites
 *.d
 
