@@ -1,4 +1,4 @@
-[<img alt="alt_text" width="100%" src="images/intro.jpg" />]
+<img alt="alt_text" width="100%" src="images/intro.jpg" />
 
 # M5Stack NES
 
