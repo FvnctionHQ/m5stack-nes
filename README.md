@@ -2,7 +2,7 @@
 
 # M5Stack NES
 
-A NES emulator with support for M5Stack Faces and SD card.
+A NES emulator for esp32 board with support for M5Stack Faces and SD card.
 
 
 ## Current limitations
