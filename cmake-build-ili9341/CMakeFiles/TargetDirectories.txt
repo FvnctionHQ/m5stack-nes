@@ -1,5 +1,0 @@
-/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/cmake-build-ili9341/CMakeFiles/Production.dir
-/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/cmake-build-ili9341/CMakeFiles/Debug.dir
-/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/cmake-build-ili9341/CMakeFiles/Z_DUMMY_TARGET.dir
-/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/cmake-build-ili9341/CMakeFiles/edit_cache.dir
-/Users/jim/Downloads/NESP32-master/NESP32-Single-Game/cmake-build-ili9341/CMakeFiles/rebuild_cache.dir
