@@ -52,12 +52,11 @@ void copy_rom(String sdPath) {
     int i = 0;
     while (sourceFile.read(buf, 512)) {
         i++;
-        M5.Lcd.progressBar(10, 10, TFT_WIDTH - 20, 20, i);
+        M5.Lcd.progressBar(0, 0, MONITOR_HOR_RES, 20, min(i,100));
         destFile.write(buf, 512);
     }
     destFile.close();
     sourceFile.close();
-
     SD_FILESYSTEM_END
     SPIFFS_FILESYSTEM_END
 
